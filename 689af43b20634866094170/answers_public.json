@@ -1,0 +1,160 @@
+[
+    {
+        "question_id": 1,
+        "relevant_chunks": [
+            {
+                "document_name": "tmjl_2024_rus.pdf",
+                "page_number": 14
+            }
+        ],
+        "answer": "филиал «Xinjiang KTZ International Logistics Co.LTD»"
+    },
+    {
+        "question_id": 2,
+        "relevant_chunks": [
+            {
+                "document_name": "tmjl_2024_rus.pdf",
+                "page_number": 38
+            }
+        ],
+        "answer": 68
+    },
+    {
+        "question_id": 3,
+        "relevant_chunks": [
+            {
+                "document_name": "tmjl_2024_rus.pdf",
+                "page_number": 367
+            },
+            {
+                "document_name": "tmjl_2024_rus.pdf",
+                "page_number": 57
+            }
+        ],
+        "answer": 6.2
+    },
+    {
+        "question_id": 4,
+        "relevant_chunks": [
+            {
+                "document_name": "fpstp_2024_rus.pdf",
+                "page_number": 28
+            }
+        ],
+        "answer": 5
+    },
+    {
+        "question_id": 5,
+        "relevant_chunks": [
+            {
+                "document_name": "rahtp_2024_rus.pdf",
+                "page_number": 53
+            }
+        ],
+        "answer": "Заместитель председателя правления по производству"
+    },
+    {
+        "question_id": 6,
+        "relevant_chunks": [
+            {
+                "document_name": "raht_af_4_2025.pdf",
+                "page_number": 1
+            }
+        ],
+        "answer": 24
+    },
+    {
+        "question_id": 7,
+        "relevant_chunks": [
+            {
+                "document_name": "fpstp_2024_rus.pdf",
+                "page_number": 34
+            },
+            {
+                "document_name": "matnp_2024_rus.pdf",
+                "page_number": 11
+            }
+        ],
+        "answer": "ТОО \"Bass Gold\""
+    },
+    {
+        "question_id": 8,
+        "relevant_chunks": [
+            {
+                "document_name": "kztkf5m1_2025_cons_rus_pdf.pdf",
+                "page_number": 24
+            }
+        ],
+        "answer": 300
+    },
+    {
+        "question_id": 9,
+        "relevant_chunks": [
+            {
+                "document_name": "matnp_2024_rus.pdf",
+                "page_number": 77
+            }
+        ],
+        "answer": 120309860000
+    },
+    {
+        "question_id": 10,
+        "relevant_chunks": [
+            {
+                "document_name": "matnp_2024_rus.pdf",
+                "page_number": 23
+            }
+        ],
+        "answer": 249.747
+    },
+    {
+        "question_id": 11,
+        "relevant_chunks": [
+            {
+                "document_name": "airap_2024_rus.pdf",
+                "page_number": 10
+            }
+        ],
+        "answer": 18
+    },
+    {
+        "question_id": 12,
+        "relevant_chunks": [
+            {
+                "document_name": "airap_2024_rus.pdf",
+                "page_number": 74
+            }
+        ],
+        "answer": 25
+    },
+    {
+        "question_id": 13,
+        "relevant_chunks": [
+            {
+                "document_name": "aira_af_4_2025.pdf",
+                "page_number": 13
+            }
+        ],
+        "answer": "Кушеров Даир Адильбекович"
+    },
+    {
+        "question_id": 14,
+        "relevant_chunks": [
+            {
+                "document_name": "aafdf5_2024_cons_rus.pdf",
+                "page_number": 8
+            }
+        ],
+        "answer": "Дюсекешова Асем Сапаргалиевна"
+    },
+    {
+        "question_id": 15,
+        "relevant_chunks": [
+            {
+                "document_name": "kztkp_2024_rus.pdf",
+                "page_number": 6
+            }
+        ],
+        "answer": 23540
+    }
+]

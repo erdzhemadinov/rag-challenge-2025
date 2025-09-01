@@ -1,0 +1,101 @@
+{
+  "52": {
+    "original_answer": "N/A",
+    "candidates": [
+      "N/A",
+      "Caspian Fiber Optic Company B.V"
+    ],
+    "selected_answer": "Caspian Fiber Optic Company B.V",
+    "selection_meta": {
+      "reason": "frequency_vote",
+      "frequency": 1
+    },
+    "original_type": "str",
+    "coerced_type": "str"
+  },
+  "80": {
+    "original_answer": null,
+    "candidates": [
+      null,
+      3
+    ],
+    "selected_answer": 3,
+    "selection_meta": {
+      "reason": "numeric_max"
+    },
+    "original_type": null,
+    "coerced_type": "int"
+  },
+  "94": {
+    "original_answer": 0,
+    "candidates": [
+      0,
+      11,
+      2
+    ],
+    "selected_answer": 11,
+    "selection_meta": {
+      "reason": "numeric_max"
+    },
+    "original_type": "int",
+    "coerced_type": "int"
+  },
+  "103": {
+    "original_answer": "N/A",
+    "candidates": [
+      "N/A",
+      "ТОО «Делойт»"
+    ],
+    "selected_answer": "ТОО «Делойт»",
+    "selection_meta": {
+      "reason": "frequency_vote",
+      "frequency": 1
+    },
+    "original_type": "str",
+    "coerced_type": "str"
+  },
+  "107": {
+    "original_answer": "ноль тенге",
+    "candidates": [
+      "ноль тенге",
+      "не раскрыто",
+      "ноль"
+    ],
+    "selected_answer": "не раскрыто",
+    "selection_meta": {
+      "reason": "frequency_vote",
+      "frequency": 1
+    },
+    "original_type": "str",
+    "coerced_type": "str"
+  },
+  "108": {
+    "original_answer": "ноль целых ноль сотых процента",
+    "candidates": [
+      "ноль целых ноль сотых процента",
+      "сорок пять процентов",
+      "ноль целых сорок две сотых процента",
+      "ноль целых тридцать пять сотых процента"
+    ],
+    "selected_answer": "ноль целых тридцать пять сотых процента",
+    "selection_meta": {
+      "reason": "frequency_vote",
+      "frequency": 1
+    },
+    "original_type": "str",
+    "coerced_type": "str"
+  },
+  "118": {
+    "original_answer": 0,
+    "candidates": [
+      0,
+      22927
+    ],
+    "selected_answer": 22927,
+    "selection_meta": {
+      "reason": "numeric_max"
+    },
+    "original_type": "int",
+    "coerced_type": "int"
+  }
+}

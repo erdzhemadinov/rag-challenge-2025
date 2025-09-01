@@ -1,0 +1,132 @@
+[
+  {
+    "question_id": 9,
+    "relevant_chunks": [
+      {
+        "document_name": "airap_2024_rus",
+        "page_number": 42
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "question_id": 35,
+    "relevant_chunks": [
+      {
+        "document_name": "matnp_2024_rus",
+        "page_number": 25
+      }
+    ],
+    "answer": "Лю Цзинчэн"
+  },
+  {
+    "question_id": 52,
+    "relevant_chunks": [
+      {
+        "document_name": "aira_af_4_2025",
+        "page_number": 96
+      }
+    ],
+    "answer": "N/A"
+  },
+  {
+    "question_id": 80,
+    "relevant_chunks": [
+      {
+        "document_name": "matnp_2024_rus",
+        "page_number": 49
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "question_id": 94,
+    "relevant_chunks": [
+      {
+        "document_name": "kztk_af_4_2025",
+        "page_number": 202
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "question_id": 103,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_2024_rus",
+        "page_number": 280
+      }
+    ],
+    "answer": "ТОО «Делойт»"
+  },
+  {
+    "question_id": 107,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_2024_rus",
+        "page_number": 438
+      }
+    ],
+    "answer": "ноль тенге"
+  },
+  {
+    "question_id": 108,
+    "relevant_chunks": [
+      {
+        "document_name": "bsulp_2024_rus",
+        "page_number": 11
+      }
+    ],
+    "answer": "сорок пять процентов"
+  },
+  {
+    "question_id": 118,
+    "relevant_chunks": [
+      {
+        "document_name": "bastp_2024_rus",
+        "page_number": 93
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "question_id": 146,
+    "relevant_chunks": [
+      {
+        "document_name": "fpstp_2024_rus",
+        "page_number": 86
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "question_id": 152,
+    "relevant_chunks": [
+      {
+        "document_name": "fpstp_2024_rus",
+        "page_number": 86
+      }
+    ],
+    "answer": 0.0
+  },
+  {
+    "question_id": 190,
+    "relevant_chunks": [
+      {
+        "document_name": "rahtp_2024_rus",
+        "page_number": 1
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "question_id": 191,
+    "relevant_chunks": [
+      {
+        "document_name": "airap_2024_rus",
+        "page_number": 55
+      }
+    ],
+    "answer": 5
+  }
+]

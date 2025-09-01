@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "full_question": "Какой организацией представлен АО «НК Қазақстан Темір Жолы» в Венгрии?",
+    "answer": "",
+    "raw_llm": "Error code: 400 - {'error': {'message': \"Unsupported value: 'temperature' does not support 0 with this model. Only the default (1) value is supported.\", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}",
+    "hits": [],
+    "pdf_page_image_b64": null
+  },
+  {
+    "id": 2,
+    "full_question": "Какая цель у КТЖ по показателю (в баллах) рейтинг ESG на 2032 год?",
+    "answer": "",
+    "raw_llm": "Error code: 400 - {'error': {'message': \"Unsupported value: 'temperature' does not support 0 with this model. Only the default (1) value is supported.\", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}",
+    "hits": [],
+    "pdf_page_image_b64": null
+  },
+  {
+    "id": 3,
+    "full_question": "Какое у Казахстан Темир Жолы фактическое значение по показателю рентабельности среднего задействованного капитала (в %) в 2024 году?",
+    "answer": "",
+    "raw_llm": "Error code: 400 - {'error': {'message': \"Unsupported value: 'temperature' does not support 0 with this model. Only the default (1) value is supported.\", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}",
+    "hits": [],
+    "pdf_page_image_b64": null
+  },
+  {
+    "id": 4,
+    "full_question": "В скольких месяцах 2024 года добыча руды превысила 5 млн тонн у ТОО \"Bass Gold\"?",
+    "answer": "",
+    "raw_llm": "Error code: 400 - {'error': {'message': \"Unsupported value: 'temperature' does not support 0 with this model. Only the default (1) value is supported.\", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}",
+    "hits": [],
+    "pdf_page_image_b64": null
+  },
+  {
+    "id": 5,
+    "full_question": "Какую должность занимает Им Вонхёк в АО \"ЛОТТЕ Рахат\"?",
+    "answer": "",
+    "raw_llm": "Error code: 400 - {'error': {'message': \"Unsupported value: 'temperature' does not support 0 with this model. Only the default (1) value is supported.\", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}",
+    "hits": [],
+    "pdf_page_image_b64": null
+  },
+  {
+    "id": 6,
+    "full_question": "Сколько всего физлиц нерезидентов среди аффилированных лиц у АО \"ЛОТТЕ Рахат\"?",
+    "answer": "",
+    "raw_llm": "Error code: 400 - {'error': {'message': \"Unsupported value: 'temperature' does not support 0 with this model. Only the default (1) value is supported.\", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}",
+    "hits": [],
+    "pdf_page_image_b64": null
+  },
+  {
+    "id": 7,
+    "full_question": "У какой компании капитальные затраты были выше: ТОО \"Bass Gold\" или АО \"МАТЕН ПЕТРОЛЕУМ\"?",
+    "answer": "",
+    "raw_llm": "Error code: 400 - {'error': {'message': \"Unsupported value: 'temperature' does not support 0 with this model. Only the default (1) value is supported.\", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}",
+    "hits": [],
+    "pdf_page_image_b64": null
+  },
+  {
+    "id": 8,
+    "full_question": "Сколько тенге составляет обязательный размер дивидендов по привелигированным акциям в расчете на одну акцию?",
+    "answer": "",
+    "raw_llm": "Error code: 400 - {'error': {'message': \"Unsupported value: 'temperature' does not support 0 with this model. Only the default (1) value is supported.\", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}",
+    "hits": [],
+    "pdf_page_image_b64": null
+  },
+  {
+    "id": 9,
+    "full_question": "Какая сумма в тенге налоговых убытков была у группы компаний АО «Матен Петролеум» на момент 31 декабря 2024 года?",
+    "answer": "",
+    "raw_llm": "Error code: 400 - {'error': {'message': \"Unsupported value: 'temperature' does not support 0 with this model. Only the default (1) value is supported.\", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}",
+    "hits": [],
+    "pdf_page_image_b64": null
+  },
+  {
+    "id": 10,
+    "full_question": "Сколько всего тонн выбросов CO2 произвёл объект НПС Каратон в 2024 году?",
+    "answer": "",
+    "raw_llm": "Error code: 400 - {'error': {'message': \"Unsupported value: 'temperature' does not support 0 with this model. Only the default (1) value is supported.\", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}",
+    "hits": [],
+    "pdf_page_image_b64": null
+  },
+  {
+    "id": 11,
+    "full_question": "Какая еженедельная частота рейсов было в 2024 году у компании FlyArystan?",
+    "answer": "",
+    "raw_llm": "Error code: 400 - {'error': {'message': \"Unsupported value: 'temperature' does not support 0 with this model. Only the default (1) value is supported.\", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}",
+    "hits": [],
+    "pdf_page_image_b64": null
+  },
+  {
+    "id": 12,
+    "full_question": "Сколько лет всего срок полезной службы воздушного судна в учётной политике?",
+    "answer": "",
+    "raw_llm": "Error code: 400 - {'error': {'message': \"Unsupported value: 'temperature' does not support 0 with this model. Only the default (1) value is supported.\", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}",
+    "hits": [],
+    "pdf_page_image_b64": null
+  },
+  {
+    "id": 13,
+    "full_question": "Кто является Управляющим директором по финансам АО \"НК \"ҚТЖ\"",
+    "answer": "",
+    "raw_llm": "Error code: 400 - {'error': {'message': \"Unsupported value: 'temperature' does not support 0 with this model. Only the default (1) value is supported.\", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}",
+    "hits": [],
+    "pdf_page_image_b64": null
+  },
+  {
+    "id": 14,
+    "full_question": "Кто главный бухгалтер в АО \"AsiaAgroFood\" (ФИО)?",
+    "answer": "",
+    "raw_llm": "Error code: 400 - {'error': {'message': \"Unsupported value: 'temperature' does not support 0 with this model. Only the default (1) value is supported.\", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}",
+    "hits": [],
+    "pdf_page_image_b64": null
+  },
+  {
+    "id": 15,
+    "full_question": "Сколько всего работников было в АО \"Казахтелеком\" в 2024 году?",
+    "answer": "",
+    "raw_llm": "Error code: 400 - {'error': {'message': \"Unsupported value: 'temperature' does not support 0 with this model. Only the default (1) value is supported.\", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}",
+    "hits": [],
+    "pdf_page_image_b64": null
+  }
+]

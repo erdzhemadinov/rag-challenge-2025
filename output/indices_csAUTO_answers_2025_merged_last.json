@@ -1,0 +1,2002 @@
+[
+  {
+    "question_id": 1,
+    "relevant_chunks": [
+      {
+        "document_name": "rahtp_2024_rus",
+        "page_number": 76
+      }
+    ],
+    "answer": "Республика Казахстан, 050002, г. Алматы, ул. Зенкова, 2а"
+  },
+  {
+    "question_id": 2,
+    "relevant_chunks": [
+      {
+        "document_name": "kztkp_2024_rus",
+        "page_number": 65
+      }
+    ],
+    "answer": "11,10,4,15,12,8,17,16,9"
+  },
+  {
+    "question_id": 3,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_2024_rus",
+        "page_number": 66
+      }
+    ],
+    "answer": 85.8
+  },
+  {
+    "question_id": 4,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_2024_rus",
+        "page_number": 37
+      }
+    ],
+    "answer": 6.97
+  },
+  {
+    "question_id": 5,
+    "relevant_chunks": [
+      {
+        "document_name": "matnp_2024_rus",
+        "page_number": 23
+      }
+    ],
+    "answer": 16.5
+  },
+  {
+    "question_id": 6,
+    "relevant_chunks": [
+      {
+        "document_name": "tcibp_2024_rus",
+        "page_number": 22
+      }
+    ],
+    "answer": "ТОО «Эрнст энд Янг»"
+  },
+  {
+    "question_id": 7,
+    "relevant_chunks": [
+      {
+        "document_name": "fpstp_2024_rus",
+        "page_number": 15
+      }
+    ],
+    "answer": 2673
+  },
+  {
+    "question_id": 8,
+    "relevant_chunks": [
+      {
+        "document_name": "fatnp_2024_rus",
+        "page_number": 18
+      }
+    ],
+    "answer": 1810.06
+  },
+  {
+    "question_id": 9,
+    "relevant_chunks": [
+      {
+        "document_name": "airap_2024_rus",
+        "page_number": 44
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "question_id": 10,
+    "relevant_chunks": [
+      {
+        "document_name": "airap_2024_rus",
+        "page_number": 44
+      }
+    ],
+    "answer": 4.86
+  },
+  {
+    "question_id": 11,
+    "relevant_chunks": [
+      {
+        "document_name": "rahtp_2024_rus",
+        "page_number": 17
+      }
+    ],
+    "answer": 450
+  },
+  {
+    "question_id": 12,
+    "relevant_chunks": [
+      {
+        "document_name": "matnp_2024_rus",
+        "page_number": 82
+      }
+    ],
+    "answer": 173493
+  },
+  {
+    "question_id": 13,
+    "relevant_chunks": [
+      {
+        "document_name": "brkzf6_2024_cons_rus",
+        "page_number": 3
+      }
+    ],
+    "answer": "ТОО «КПМГ Аудит»"
+  },
+  {
+    "question_id": 14,
+    "relevant_chunks": [
+      {
+        "document_name": "rahtp_2024_rus",
+        "page_number": 9
+      }
+    ],
+    "answer": 2.1
+  },
+  {
+    "question_id": 15,
+    "relevant_chunks": [
+      {
+        "document_name": "brkzf6_2024_cons_rus",
+        "page_number": 78
+      }
+    ],
+    "answer": 15243069
+  },
+  {
+    "question_id": 16,
+    "relevant_chunks": [
+      {
+        "document_name": "kztk_af_4_2025",
+        "page_number": 203
+      }
+    ],
+    "answer": "АО «НК «ҚТЖ» владеет 25% плюс 1 акцией АО \"Транстелеком\""
+  },
+  {
+    "question_id": 17,
+    "relevant_chunks": [
+      {
+        "document_name": "aafdf5_2024_cons_rus",
+        "page_number": 7
+      }
+    ],
+    "answer": 36495
+  },
+  {
+    "question_id": 18,
+    "relevant_chunks": [
+      {
+        "document_name": "oasif6_2024_rus",
+        "page_number": 8
+      }
+    ],
+    "answer": 52721
+  },
+  {
+    "question_id": 19,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_2024_rus",
+        "page_number": 178
+      }
+    ],
+    "answer": 20
+  },
+  {
+    "question_id": 20,
+    "relevant_chunks": [
+      {
+        "document_name": "rahtp_2024_rus",
+        "page_number": 24
+      }
+    ],
+    "answer": "Рахат"
+  },
+  {
+    "question_id": 21,
+    "relevant_chunks": [
+      {
+        "document_name": "raht_af_4_2025",
+        "page_number": 2
+      }
+    ],
+    "answer": 17
+  },
+  {
+    "question_id": 22,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_af_1_2025",
+        "page_number": 44
+      }
+    ],
+    "answer": "пп. 3) п. 1 ст. 64"
+  },
+  {
+    "question_id": 23,
+    "relevant_chunks": [
+      {
+        "document_name": "matnp_2024_rus",
+        "page_number": 6
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "question_id": 24,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_2024_rus",
+        "page_number": 12
+      }
+    ],
+    "answer": 16.0
+  },
+  {
+    "question_id": 25,
+    "relevant_chunks": [
+      {
+        "document_name": "bsulp_2024_rus",
+        "page_number": 46
+      }
+    ],
+    "answer": 1536
+  },
+  {
+    "question_id": 26,
+    "relevant_chunks": [
+      {
+        "document_name": "kztk_af_4_2025",
+        "page_number": 206
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "question_id": 27,
+    "relevant_chunks": [
+      {
+        "document_name": "kztkp_2024_rus",
+        "page_number": 38
+      }
+    ],
+    "answer": 1565
+  },
+  {
+    "question_id": 28,
+    "relevant_chunks": [
+      {
+        "document_name": "fatnp_2024_rus",
+        "page_number": 19
+      }
+    ],
+    "answer": 81049.0
+  },
+  {
+    "question_id": 29,
+    "relevant_chunks": [
+      {
+        "document_name": "matnp_2024_rus",
+        "page_number": 44
+      }
+    ],
+    "answer": 38976302.0
+  },
+  {
+    "question_id": 30,
+    "relevant_chunks": [
+      {
+        "document_name": "airap_2024_rus",
+        "page_number": 33
+      }
+    ],
+    "answer": 6546
+  },
+  {
+    "question_id": 31,
+    "relevant_chunks": [
+      {
+        "document_name": "bastp_2024_rus",
+        "page_number": 100
+      }
+    ],
+    "answer": 125300
+  },
+  {
+    "question_id": 32,
+    "relevant_chunks": [
+      {
+        "document_name": "fpstp_2024_rus",
+        "page_number": 8
+      }
+    ],
+    "answer": 2006
+  },
+  {
+    "question_id": 33,
+    "relevant_chunks": [
+      {
+        "document_name": "oasif6_2024_rus",
+        "page_number": 6
+      }
+    ],
+    "answer": 13476188
+  },
+  {
+    "question_id": 34,
+    "relevant_chunks": [
+      {
+        "document_name": "bsul_af_4_2025",
+        "page_number": 13
+      }
+    ],
+    "answer": "Казахстан, Алматинская область, Карасайский район, 040930 станция Жибек Жолы, улица Султанбай, строение 1"
+  },
+  {
+    "question_id": 35,
+    "relevant_chunks": [
+      {
+        "document_name": "matnp_2024_rus",
+        "page_number": 25
+      }
+    ],
+    "answer": "Liu Jincheng (Лю Цзинчэн)"
+  },
+  {
+    "question_id": 36,
+    "relevant_chunks": [
+      {
+        "document_name": "bsulp_2024_rus",
+        "page_number": 4
+      }
+    ],
+    "answer": 350
+  },
+  {
+    "question_id": 37,
+    "relevant_chunks": [
+      {
+        "document_name": "oasif6_2024_rus",
+        "page_number": 11
+      }
+    ],
+    "answer": "Республика Казахстан, Алматинская обл., Илийский район, с. Мухаметкалина Туймебаева, Промзона, дом 289, почтовый индекс 040702"
+  },
+  {
+    "question_id": 38,
+    "relevant_chunks": [
+      {
+        "document_name": "airap_2024_rus",
+        "page_number": 47
+      }
+    ],
+    "answer": 2.7
+  },
+  {
+    "question_id": 39,
+    "relevant_chunks": [
+      {
+        "document_name": "bsulp_2024_rus",
+        "page_number": 8
+      }
+    ],
+    "answer": 19.7
+  },
+  {
+    "question_id": 40,
+    "relevant_chunks": [
+      {
+        "document_name": "airap_2024_rus",
+        "page_number": 41
+      }
+    ],
+    "answer": "Умеренный"
+  },
+  {
+    "question_id": 41,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_af_1_2025",
+        "page_number": 94
+      }
+    ],
+    "answer": 10
+  },
+  {
+    "question_id": 42,
+    "relevant_chunks": [
+      {
+        "document_name": "matnp_2024_rus",
+        "page_number": 34
+      }
+    ],
+    "answer": "Узень – Атырау – Самара"
+  },
+  {
+    "question_id": 43,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_af_1_2025",
+        "page_number": 95
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "question_id": 44,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_af_1_2025",
+        "page_number": 32
+      }
+    ],
+    "answer": "пп. 3) п. 1 ст. 64"
+  },
+  {
+    "question_id": 45,
+    "relevant_chunks": [
+      {
+        "document_name": "aafdfm1_2025_cons_rus",
+        "page_number": 2
+      }
+    ],
+    "answer": "Ашенов Саян Баймуратулы"
+  },
+  {
+    "question_id": 46,
+    "relevant_chunks": [
+      {
+        "document_name": "fpstp_2024_rus",
+        "page_number": 7
+      }
+    ],
+    "answer": "Ушшокы, Чинасыль-Сай"
+  },
+  {
+    "question_id": 47,
+    "relevant_chunks": [
+      {
+        "document_name": "tcib_af_4_2025",
+        "page_number": 3
+      }
+    ],
+    "answer": 10
+  },
+  {
+    "question_id": 48,
+    "relevant_chunks": [
+      {
+        "document_name": "fatnp_2024_rus",
+        "page_number": 23
+      }
+    ],
+    "answer": 105
+  },
+  {
+    "question_id": 49,
+    "relevant_chunks": [
+      {
+        "document_name": "aafdf5_2024_cons_rus",
+        "page_number": 2
+      }
+    ],
+    "answer": "Да, ТОО «КастебАгроФуд», ТОО «Коктал-Агро»"
+  },
+  {
+    "question_id": 50,
+    "relevant_chunks": [
+      {
+        "document_name": "kztk_af_4_2025",
+        "page_number": 202
+      }
+    ],
+    "answer": "пп. 7) п. 1 ст. 64"
+  },
+  {
+    "question_id": 51,
+    "relevant_chunks": [
+      {
+        "document_name": "matnp_2024_rus",
+        "page_number": 24
+      }
+    ],
+    "answer": "28.06.2021"
+  },
+  {
+    "question_id": 52,
+    "relevant_chunks": [
+      {
+        "document_name": "kztk_af_4_2025",
+        "page_number": 205
+      }
+    ],
+    "answer": "Caspian Fiber Optic Company B.V"
+  },
+  {
+    "question_id": 53,
+    "relevant_chunks": [
+      {
+        "document_name": "rahtp_2024_rus",
+        "page_number": 16
+      }
+    ],
+    "answer": 19
+  },
+  {
+    "question_id": 54,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_2024_rus",
+        "page_number": 59
+      }
+    ],
+    "answer": 45
+  },
+  {
+    "question_id": 55,
+    "relevant_chunks": [
+      {
+        "document_name": "kztkp_2024_rus",
+        "page_number": 22
+      }
+    ],
+    "answer": "стратегия развития"
+  },
+  {
+    "question_id": 56,
+    "relevant_chunks": [
+      {
+        "document_name": "fpstp_2024_rus",
+        "page_number": 63
+      }
+    ],
+    "answer": 469.31
+  },
+  {
+    "question_id": 57,
+    "relevant_chunks": [
+      {
+        "document_name": "rahtp_2024_rus",
+        "page_number": 20
+      }
+    ],
+    "answer": 19.6
+  },
+  {
+    "question_id": 58,
+    "relevant_chunks": [
+      {
+        "document_name": "tcomf_2024_rus",
+        "page_number": 2
+      }
+    ],
+    "answer": 83.69
+  },
+  {
+    "question_id": 59,
+    "relevant_chunks": [
+      {
+        "document_name": "bastp_2024_rus",
+        "page_number": 21
+      }
+    ],
+    "answer": "закрытие фабрики ГОК Максут в феврале 2024 года, что привело к резкому снижению объемов реализации"
+  },
+  {
+    "question_id": 60,
+    "relevant_chunks": [
+      {
+        "document_name": "tcib_af_4_2025",
+        "page_number": 3
+      }
+    ],
+    "answer": "12.05.2023"
+  },
+  {
+    "question_id": 61,
+    "relevant_chunks": [
+      {
+        "document_name": "tcibp_2024_rus",
+        "page_number": 39
+      }
+    ],
+    "answer": 6.01
+  },
+  {
+    "question_id": 62,
+    "relevant_chunks": [
+      {
+        "document_name": "bsulp_2024_rus",
+        "page_number": 19
+      }
+    ],
+    "answer": "Средний"
+  },
+  {
+    "question_id": 63,
+    "relevant_chunks": [
+      {
+        "document_name": "airap_2024_rus",
+        "page_number": 41
+      }
+    ],
+    "answer": "Высокий"
+  },
+  {
+    "question_id": 64,
+    "relevant_chunks": [
+      {
+        "document_name": "fpstp_2024_rus",
+        "page_number": 13
+      }
+    ],
+    "answer": 2304.6
+  },
+  {
+    "question_id": 65,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_2024_rus",
+        "page_number": 49
+      }
+    ],
+    "answer": 8
+  },
+  {
+    "question_id": 66,
+    "relevant_chunks": [
+      {
+        "document_name": "matnp_2024_rus",
+        "page_number": 24
+      }
+    ],
+    "answer": "Вице-Президент"
+  },
+  {
+    "question_id": 67,
+    "relevant_chunks": [
+      {
+        "document_name": "rahtp_2024_rus",
+        "page_number": 18
+      }
+    ],
+    "answer": "«Вечер», «Алтын Кум», «Мишутка»"
+  },
+  {
+    "question_id": 68,
+    "relevant_chunks": [
+      {
+        "document_name": "bsulp_2024_rus",
+        "page_number": 4
+      }
+    ],
+    "answer": "Монголия, Китай, Южная Корея"
+  },
+  {
+    "question_id": 69,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_2024_rus",
+        "page_number": 171
+      }
+    ],
+    "answer": 117681
+  },
+  {
+    "question_id": 70,
+    "relevant_chunks": [
+      {
+        "document_name": "matnp_2024_rus",
+        "page_number": 34
+      }
+    ],
+    "answer": "Каспийский Трубопроводный Консорциум"
+  },
+  {
+    "question_id": 71,
+    "relevant_chunks": [
+      {
+        "document_name": "aira_af_4_2025",
+        "page_number": 90
+      }
+    ],
+    "answer": 10
+  },
+  {
+    "question_id": 72,
+    "relevant_chunks": [
+      {
+        "document_name": "aafdf5_2024_cons_rus",
+        "page_number": 2
+      }
+    ],
+    "answer": 400
+  },
+  {
+    "question_id": 73,
+    "relevant_chunks": [
+      {
+        "document_name": "bastp_2024_rus",
+        "page_number": 67
+      }
+    ],
+    "answer": 1644
+  },
+  {
+    "question_id": 74,
+    "relevant_chunks": [
+      {
+        "document_name": "airap_2024_rus",
+        "page_number": 57
+      }
+    ],
+    "answer": 2020
+  },
+  {
+    "question_id": 75,
+    "relevant_chunks": [
+      {
+        "document_name": "fatnp_2024_rus",
+        "page_number": 73
+      }
+    ],
+    "answer": 5
+  },
+  {
+    "question_id": 76,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_af_1_2025",
+        "page_number": 32
+      }
+    ],
+    "answer": "пп. 2) п. 1 ст. 64"
+  },
+  {
+    "question_id": 77,
+    "relevant_chunks": [
+      {
+        "document_name": "oasi_af_4_2025",
+        "page_number": 5
+      }
+    ],
+    "answer": "Давыдова"
+  },
+  {
+    "question_id": 78,
+    "relevant_chunks": [
+      {
+        "document_name": "bastp_2024_rus",
+        "page_number": 18
+      }
+    ],
+    "answer": 730000
+  },
+  {
+    "question_id": 79,
+    "relevant_chunks": [
+      {
+        "document_name": "aafdf5_2024_cons_rus",
+        "page_number": 2
+      }
+    ],
+    "answer": 5
+  },
+  {
+    "question_id": 80,
+    "relevant_chunks": [
+      {
+        "document_name": "matnp_2024_rus",
+        "page_number": 49
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "question_id": 81,
+    "relevant_chunks": [
+      {
+        "document_name": "bastp_2024_rus",
+        "page_number": 22
+      }
+    ],
+    "answer": 0.13
+  },
+  {
+    "question_id": 82,
+    "relevant_chunks": [
+      {
+        "document_name": "fatnp_2024_rus",
+        "page_number": 19
+      }
+    ],
+    "answer": 104986.0
+  },
+  {
+    "question_id": 83,
+    "relevant_chunks": [
+      {
+        "document_name": "fpstp_2024_rus",
+        "page_number": 16
+      }
+    ],
+    "answer": 2070
+  },
+  {
+    "question_id": 84,
+    "relevant_chunks": [
+      {
+        "document_name": "rahtp_2024_rus",
+        "page_number": 9
+      }
+    ],
+    "answer": "ОСО «Алматинские конфеты»"
+  },
+  {
+    "question_id": 85,
+    "relevant_chunks": [
+      {
+        "document_name": "fatnp_2024_rus",
+        "page_number": 19
+      }
+    ],
+    "answer": 10.32
+  },
+  {
+    "question_id": 86,
+    "relevant_chunks": [
+      {
+        "document_name": "rahtp_2024_rus",
+        "page_number": 12
+      }
+    ],
+    "answer": "Алматы, Шымкент"
+  },
+  {
+    "question_id": 87,
+    "relevant_chunks": [
+      {
+        "document_name": "bsulp_2024_rus",
+        "page_number": 12
+      }
+    ],
+    "answer": "Да"
+  },
+  {
+    "question_id": 88,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_2024_rus",
+        "page_number": 93
+      }
+    ],
+    "answer": "20 декабря 2024 года"
+  },
+  {
+    "question_id": 89,
+    "relevant_chunks": [
+      {
+        "document_name": "bsulp_2024_rus",
+        "page_number": 13
+      }
+    ],
+    "answer": "Рахат"
+  },
+  {
+    "question_id": 90,
+    "relevant_chunks": [
+      {
+        "document_name": "bastp_2024_rus",
+        "page_number": 21
+      }
+    ],
+    "answer": 219
+  },
+  {
+    "question_id": 91,
+    "relevant_chunks": [
+      {
+        "document_name": "rahtp_2024_rus",
+        "page_number": 9
+      }
+    ],
+    "answer": "АО \"ЛОТТЕ Рахат\""
+  },
+  {
+    "question_id": 92,
+    "relevant_chunks": [
+      {
+        "document_name": "kztkp_2024_rus",
+        "page_number": 175
+      }
+    ],
+    "answer": "N/A"
+  },
+  {
+    "question_id": 93,
+    "relevant_chunks": [
+      {
+        "document_name": "tcib_af_4_2025",
+        "page_number": 3
+      }
+    ],
+    "answer": "12.05.2023"
+  },
+  {
+    "question_id": 94,
+    "relevant_chunks": [
+      {
+        "document_name": "oasi_af_4_2025",
+        "page_number": 1
+      }
+    ],
+    "answer": 11
+  },
+  {
+    "question_id": 95,
+    "relevant_chunks": [
+      {
+        "document_name": "bastp_2024_rus",
+        "page_number": 55
+      }
+    ],
+    "answer": "Тұрлов Тимур Русланович"
+  },
+  {
+    "question_id": 96,
+    "relevant_chunks": [
+      {
+        "document_name": "tcibp_2024_rus",
+        "page_number": 25
+      }
+    ],
+    "answer": 47
+  },
+  {
+    "question_id": 97,
+    "relevant_chunks": [
+      {
+        "document_name": "fatnp_2024_rus",
+        "page_number": 26
+      }
+    ],
+    "answer": "Входят в один холдинг"
+  },
+  {
+    "question_id": 98,
+    "relevant_chunks": [
+      {
+        "document_name": "tcibp_2024_rus",
+        "page_number": 2
+      }
+    ],
+    "answer": "Управление персоналом"
+  },
+  {
+    "question_id": 99,
+    "relevant_chunks": [
+      {
+        "document_name": "brkzf6_2024_cons_rus",
+        "page_number": 10
+      }
+    ],
+    "answer": 17.8
+  },
+  {
+    "question_id": 100,
+    "relevant_chunks": [
+      {
+        "document_name": "airap_2024_rus",
+        "page_number": 75
+      }
+    ],
+    "answer": 6
+  },
+  {
+    "question_id": 101,
+    "relevant_chunks": [
+      {
+        "document_name": "matnp_2024_rus",
+        "page_number": 11
+      }
+    ],
+    "answer": 43134.0
+  },
+  {
+    "question_id": 102,
+    "relevant_chunks": [
+      {
+        "document_name": "airap_2024_rus",
+        "page_number": 74
+      }
+    ],
+    "answer": 50
+  },
+  {
+    "question_id": 103,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_2024_rus",
+        "page_number": 280
+      }
+    ],
+    "answer": "ТОО «Делойт»"
+  },
+  {
+    "question_id": 104,
+    "relevant_chunks": [
+      {
+        "document_name": "airap_2024_rus",
+        "page_number": 40
+      }
+    ],
+    "answer": "Новый риск"
+  },
+  {
+    "question_id": 105,
+    "relevant_chunks": [
+      {
+        "document_name": "rahtp_2024_rus",
+        "page_number": 20
+      }
+    ],
+    "answer": 12.0
+  },
+  {
+    "question_id": 106,
+    "relevant_chunks": [
+      {
+        "document_name": "airap_2024_rus",
+        "page_number": 45
+      }
+    ],
+    "answer": "PW1100G"
+  },
+  {
+    "question_id": 107,
+    "relevant_chunks": [
+      {
+        "document_name": "aafdf5_2024_cons_rus",
+        "page_number": 1
+      }
+    ],
+    "answer": "не раскрыто"
+  },
+  {
+    "question_id": 108,
+    "relevant_chunks": [
+      {
+        "document_name": "bsulp_2024_rus",
+        "page_number": 4
+      }
+    ],
+    "answer": "ноль целых тридцать пять сотых процента"
+  },
+  {
+    "question_id": 109,
+    "relevant_chunks": [
+      {
+        "document_name": "airap_2024_rus",
+        "page_number": 96
+      }
+    ],
+    "answer": 186
+  },
+  {
+    "question_id": 110,
+    "relevant_chunks": [
+      {
+        "document_name": "airap_2024_rus",
+        "page_number": 43
+      }
+    ],
+    "answer": 5.5
+  },
+  {
+    "question_id": 111,
+    "relevant_chunks": [
+      {
+        "document_name": "airap_2024_rus",
+        "page_number": 68
+      }
+    ],
+    "answer": 2200684000
+  },
+  {
+    "question_id": 112,
+    "relevant_chunks": [
+      {
+        "document_name": "bastp_2024_rus",
+        "page_number": 5
+      }
+    ],
+    "answer": "г. Алматы, мкрн. Коктем-1, 15А БЦ \"Koktem Square\", 7 этаж"
+  },
+  {
+    "question_id": 113,
+    "relevant_chunks": [
+      {
+        "document_name": "matnp_2024_rus",
+        "page_number": 42
+      }
+    ],
+    "answer": "ТОО «Эрнст энд Янг»"
+  },
+  {
+    "question_id": 114,
+    "relevant_chunks": [
+      {
+        "document_name": "oasi_af_4_2025",
+        "page_number": 5
+      }
+    ],
+    "answer": "Давыдова Ирина Владимировна"
+  },
+  {
+    "question_id": 115,
+    "relevant_chunks": [
+      {
+        "document_name": "aira_af_4_2025",
+        "page_number": 13
+      }
+    ],
+    "answer": "Кушеров Даир Адильбекович"
+  },
+  {
+    "question_id": 116,
+    "relevant_chunks": [
+      {
+        "document_name": "airap_2024_rus",
+        "page_number": 68
+      }
+    ],
+    "answer": 6013245
+  },
+  {
+    "question_id": 117,
+    "relevant_chunks": [
+      {
+        "document_name": "kztkp_2024_rus",
+        "page_number": 39
+      }
+    ],
+    "answer": 60
+  },
+  {
+    "question_id": 118,
+    "relevant_chunks": [
+      {
+        "document_name": "bastp_2024_rus",
+        "page_number": 93
+      }
+    ],
+    "answer": 22927
+  },
+  {
+    "question_id": 119,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_2024_rus",
+        "page_number": 27
+      }
+    ],
+    "answer": "BB"
+  },
+  {
+    "question_id": 120,
+    "relevant_chunks": [
+      {
+        "document_name": "airap_2024_rus",
+        "page_number": 55
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "question_id": 121,
+    "relevant_chunks": [
+      {
+        "document_name": "airap_2024_rus",
+        "page_number": 24
+      }
+    ],
+    "answer": "4,5,8,10,13,17"
+  },
+  {
+    "question_id": 122,
+    "relevant_chunks": [
+      {
+        "document_name": "airap_2024_rus",
+        "page_number": 40
+      }
+    ],
+    "answer": "Airbus A320neo, Airbus A321neo, Airbus A321LR, A320ceo, Airbus A321ceo, Boeing 787-9, Boeing - 767, Embraer E190-E2"
+  },
+  {
+    "question_id": 123,
+    "relevant_chunks": [
+      {
+        "document_name": "kztk_af_4_2025",
+        "page_number": 206
+      }
+    ],
+    "answer": "пп. 9) п. 1 ст. 64"
+  },
+  {
+    "question_id": 124,
+    "relevant_chunks": [
+      {
+        "document_name": "bsulp_2024_rus",
+        "page_number": 20
+      }
+    ],
+    "answer": 473
+  },
+  {
+    "question_id": 125,
+    "relevant_chunks": [
+      {
+        "document_name": "fatnp_2024_rus",
+        "page_number": 19
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "question_id": 126,
+    "relevant_chunks": [
+      {
+        "document_name": "bastp_2024_rus",
+        "page_number": 87
+      }
+    ],
+    "answer": 11.3
+  },
+  {
+    "question_id": 127,
+    "relevant_chunks": [
+      {
+        "document_name": "aafdf5_2024_cons_rus",
+        "page_number": 5
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "question_id": 128,
+    "relevant_chunks": [
+      {
+        "document_name": "brkzf6_2024_cons_rus",
+        "page_number": 77
+      }
+    ],
+    "answer": 28761700
+  },
+  {
+    "question_id": 129,
+    "relevant_chunks": [
+      {
+        "document_name": "bsulp_2024_rus",
+        "page_number": 17
+      }
+    ],
+    "answer": 446
+  },
+  {
+    "question_id": 130,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_2024_rus",
+        "page_number": 49
+      }
+    ],
+    "answer": 5
+  },
+  {
+    "question_id": 131,
+    "relevant_chunks": [
+      {
+        "document_name": "tcib_af_4_2025",
+        "page_number": 1
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "question_id": 132,
+    "relevant_chunks": [
+      {
+        "document_name": "airap_2024_rus",
+        "page_number": 41
+      }
+    ],
+    "answer": "Рост"
+  },
+  {
+    "question_id": 133,
+    "relevant_chunks": [
+      {
+        "document_name": "tcibp_2024_rus",
+        "page_number": 21
+      }
+    ],
+    "answer": "Бакиева Дина Бактжановна"
+  },
+  {
+    "question_id": 134,
+    "relevant_chunks": [
+      {
+        "document_name": "tcibp_2024_rus",
+        "page_number": 9
+      }
+    ],
+    "answer": 40
+  },
+  {
+    "question_id": 135,
+    "relevant_chunks": [
+      {
+        "document_name": "fatnp_2024_rus",
+        "page_number": 30
+      }
+    ],
+    "answer": "ТОО \"Компания Фаэтон\" владеет 100% долей участия в ТОО \"MALIT LTD\""
+  },
+  {
+    "question_id": 136,
+    "relevant_chunks": [
+      {
+        "document_name": "aira_af_4_2025",
+        "page_number": 91
+      }
+    ],
+    "answer": "Нет"
+  },
+  {
+    "question_id": 137,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_af_1_2025",
+        "page_number": 40
+      }
+    ],
+    "answer": "пп. 3) п.1 ст.64"
+  },
+  {
+    "question_id": 138,
+    "relevant_chunks": [
+      {
+        "document_name": "fpstp_2024_rus",
+        "page_number": 86
+      }
+    ],
+    "answer": 0.01
+  },
+  {
+    "question_id": 139,
+    "relevant_chunks": [
+      {
+        "document_name": "airap_2024_rus",
+        "page_number": 7
+      }
+    ],
+    "answer": "не указано"
+  },
+  {
+    "question_id": 140,
+    "relevant_chunks": [
+      {
+        "document_name": "kztkp_2024_rus",
+        "page_number": 42
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "question_id": 141,
+    "relevant_chunks": [
+      {
+        "document_name": "airap_2024_rus",
+        "page_number": 71
+      }
+    ],
+    "answer": 2005
+  },
+  {
+    "question_id": 142,
+    "relevant_chunks": [
+      {
+        "document_name": "fpstp_2024_rus",
+        "page_number": 15
+      }
+    ],
+    "answer": 2286
+  },
+  {
+    "question_id": 143,
+    "relevant_chunks": [
+      {
+        "document_name": "kztkp_2024_rus",
+        "page_number": 99
+      }
+    ],
+    "answer": 14
+  },
+  {
+    "question_id": 144,
+    "relevant_chunks": [
+      {
+        "document_name": "tcom_af_4_2025",
+        "page_number": 4
+      }
+    ],
+    "answer": "Не связано"
+  },
+  {
+    "question_id": 145,
+    "relevant_chunks": [
+      {
+        "document_name": "bastp_2024_rus",
+        "page_number": 9
+      }
+    ],
+    "answer": 36.8
+  },
+  {
+    "question_id": 146,
+    "relevant_chunks": [
+      {
+        "document_name": "fpstp_2024_rus",
+        "page_number": 58
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "question_id": 147,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_2024_rus",
+        "page_number": 143
+      }
+    ],
+    "answer": 3739.71
+  },
+  {
+    "question_id": 148,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_af_1_2025",
+        "page_number": 41
+      }
+    ],
+    "answer": "пп. 2) п. 1 ст. 64"
+  },
+  {
+    "question_id": 149,
+    "relevant_chunks": [
+      {
+        "document_name": "bastp_2024_rus",
+        "page_number": 7
+      }
+    ],
+    "answer": 100
+  },
+  {
+    "question_id": 150,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_af_1_2025",
+        "page_number": 24
+      }
+    ],
+    "answer": "пп. 3) п. 1 ст. 64"
+  },
+  {
+    "question_id": 151,
+    "relevant_chunks": [
+      {
+        "document_name": "airap_2024_rus",
+        "page_number": 21
+      }
+    ],
+    "answer": "Шанырак"
+  },
+  {
+    "question_id": 152,
+    "relevant_chunks": [
+      {
+        "document_name": "fpstp_2024_rus",
+        "page_number": 86
+      }
+    ],
+    "answer": 0.0
+  },
+  {
+    "question_id": 153,
+    "relevant_chunks": [
+      {
+        "document_name": "aafdf5_2024_cons_rus",
+        "page_number": 2
+      }
+    ],
+    "answer": 2010
+  },
+  {
+    "question_id": 154,
+    "relevant_chunks": [
+      {
+        "document_name": "bsulp_2024_rus",
+        "page_number": 17
+      }
+    ],
+    "answer": 47280
+  },
+  {
+    "question_id": 155,
+    "relevant_chunks": [
+      {
+        "document_name": "kztkfm1_2025_cons_rus",
+        "page_number": 2
+      }
+    ],
+    "answer": "N/A"
+  },
+  {
+    "question_id": 156,
+    "relevant_chunks": [
+      {
+        "document_name": "tcibp_2024_rus",
+        "page_number": 27
+      }
+    ],
+    "answer": 2025
+  },
+  {
+    "question_id": 157,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_2024_rus",
+        "page_number": 172
+      }
+    ],
+    "answer": 84
+  },
+  {
+    "question_id": 158,
+    "relevant_chunks": [
+      {
+        "document_name": "bastp_2024_rus",
+        "page_number": 51
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "question_id": 159,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_2024_rus",
+        "page_number": 208
+      }
+    ],
+    "answer": 0.6
+  },
+  {
+    "question_id": 160,
+    "relevant_chunks": [
+      {
+        "document_name": "airap_2024_rus",
+        "page_number": 68
+      }
+    ],
+    "answer": 26
+  },
+  {
+    "question_id": 161,
+    "relevant_chunks": [
+      {
+        "document_name": "kztkp_2024_rus",
+        "page_number": 100
+      }
+    ],
+    "answer": 1968
+  },
+  {
+    "question_id": 162,
+    "relevant_chunks": [
+      {
+        "document_name": "bsulp_2024_rus",
+        "page_number": 10
+      }
+    ],
+    "answer": "Алматы"
+  },
+  {
+    "question_id": 163,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_2024_rus",
+        "page_number": 47
+      }
+    ],
+    "answer": 16198.2
+  },
+  {
+    "question_id": 164,
+    "relevant_chunks": [
+      {
+        "document_name": "kztkp_2024_rus",
+        "page_number": 25
+      }
+    ],
+    "answer": 77
+  },
+  {
+    "question_id": 165,
+    "relevant_chunks": [
+      {
+        "document_name": "airap_2024_rus",
+        "page_number": 17
+      }
+    ],
+    "answer": "FlyArystan"
+  },
+  {
+    "question_id": 166,
+    "relevant_chunks": [
+      {
+        "document_name": "bastp_2024_rus",
+        "page_number": 59
+      }
+    ],
+    "answer": "Б. В. Радостев"
+  },
+  {
+    "question_id": 167,
+    "relevant_chunks": [
+      {
+        "document_name": "oasif6_2024_rus",
+        "page_number": 2
+      }
+    ],
+    "answer": "TOO «Центраудит-Казахстан»"
+  },
+  {
+    "question_id": 168,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_2024_rus",
+        "page_number": 37
+      }
+    ],
+    "answer": 26.0
+  },
+  {
+    "question_id": 169,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_2024_rus",
+        "page_number": 3
+      }
+    ],
+    "answer": "Показатели экологического аспекта"
+  },
+  {
+    "question_id": 170,
+    "relevant_chunks": [
+      {
+        "document_name": "rahtp_2024_rus",
+        "page_number": 13
+      }
+    ],
+    "answer": "Да"
+  },
+  {
+    "question_id": 171,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_2024_rus",
+        "page_number": 170
+      }
+    ],
+    "answer": "3,5,8"
+  },
+  {
+    "question_id": 172,
+    "relevant_chunks": [
+      {
+        "document_name": "fatn_af_4_2025",
+        "page_number": 10
+      }
+    ],
+    "answer": "N/A"
+  },
+  {
+    "question_id": 173,
+    "relevant_chunks": [
+      {
+        "document_name": "fatnp_2024_rus",
+        "page_number": 36
+      }
+    ],
+    "answer": "Ким О. В."
+  },
+  {
+    "question_id": 174,
+    "relevant_chunks": [
+      {
+        "document_name": "fatnp_2024_rus",
+        "page_number": 33
+      }
+    ],
+    "answer": "ТОО \"Аудиторская компания \"ТрастФинАудит\""
+  },
+  {
+    "question_id": 175,
+    "relevant_chunks": [
+      {
+        "document_name": "fpstp_2024_rus",
+        "page_number": 82
+      }
+    ],
+    "answer": 13589
+  },
+  {
+    "question_id": 176,
+    "relevant_chunks": [
+      {
+        "document_name": "bastp_2024_rus",
+        "page_number": 12
+      }
+    ],
+    "answer": "высокая изношенность оборудования и нерентабельность"
+  },
+  {
+    "question_id": 177,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_2024_rus",
+        "page_number": 14
+      }
+    ],
+    "answer": "филиал «KTZ Express Hong Kong»"
+  },
+  {
+    "question_id": 178,
+    "relevant_chunks": [
+      {
+        "document_name": "kztkp_2024_rus",
+        "page_number": 54
+      }
+    ],
+    "answer": 21.5
+  },
+  {
+    "question_id": 179,
+    "relevant_chunks": [
+      {
+        "document_name": "tcibp_2024_rus",
+        "page_number": 12
+      }
+    ],
+    "answer": 9
+  },
+  {
+    "question_id": 180,
+    "relevant_chunks": [
+      {
+        "document_name": "bsul_af_4_2025",
+        "page_number": 14
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "question_id": 181,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_2024_rus",
+        "page_number": 39
+      }
+    ],
+    "answer": "«Штадлер»"
+  },
+  {
+    "question_id": 182,
+    "relevant_chunks": [
+      {
+        "document_name": "aafdf5_2024_cons_rus",
+        "page_number": 2
+      }
+    ],
+    "answer": 5
+  },
+  {
+    "question_id": 183,
+    "relevant_chunks": [
+      {
+        "document_name": "aira_af_4_2025",
+        "page_number": 95
+      }
+    ],
+    "answer": "Аффилированное лицо"
+  },
+  {
+    "question_id": 184,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_2024_rus",
+        "page_number": 86
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "question_id": 185,
+    "relevant_chunks": [
+      {
+        "document_name": "fpstp_2024_rus",
+        "page_number": 54
+      }
+    ],
+    "answer": 133308000
+  },
+  {
+    "question_id": 186,
+    "relevant_chunks": [
+      {
+        "document_name": "aira_af_4_2025",
+        "page_number": 93
+      }
+    ],
+    "answer": "Обе принадлежат АО \"Самрук-Қазына\""
+  },
+  {
+    "question_id": 187,
+    "relevant_chunks": [
+      {
+        "document_name": "aira_af_4_2025",
+        "page_number": 94
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "question_id": 188,
+    "relevant_chunks": [
+      {
+        "document_name": "tcibp_2024_rus",
+        "page_number": 19
+      }
+    ],
+    "answer": 26
+  },
+  {
+    "question_id": 189,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_af_1_2025",
+        "page_number": 59
+      }
+    ],
+    "answer": "аффилированное лицо"
+  },
+  {
+    "question_id": 190,
+    "relevant_chunks": [
+      {
+        "document_name": "rahtp_2024_rus",
+        "page_number": 17
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "question_id": 191,
+    "relevant_chunks": [
+      {
+        "document_name": "airap_2024_rus",
+        "page_number": 55
+      }
+    ],
+    "answer": 5
+  },
+  {
+    "question_id": 192,
+    "relevant_chunks": [
+      {
+        "document_name": "oasi_af_4_2025",
+        "page_number": 5
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "question_id": 193,
+    "relevant_chunks": [
+      {
+        "document_name": "tcib_af_4_2025",
+        "page_number": 4
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "question_id": 194,
+    "relevant_chunks": [
+      {
+        "document_name": "matnp_2024_rus",
+        "page_number": 3
+      }
+    ],
+    "answer": 1.28
+  },
+  {
+    "question_id": 195,
+    "relevant_chunks": [
+      {
+        "document_name": "matnp_2024_rus",
+        "page_number": 82
+      }
+    ],
+    "answer": 4661540.0
+  },
+  {
+    "question_id": 196,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_2024_rus",
+        "page_number": 11
+      }
+    ],
+    "answer": 2.3
+  },
+  {
+    "question_id": 197,
+    "relevant_chunks": [
+      {
+        "document_name": "matnp_2024_rus",
+        "page_number": 6
+      }
+    ],
+    "answer": 109.17
+  },
+  {
+    "question_id": 198,
+    "relevant_chunks": [
+      {
+        "document_name": "bsulp_2024_rus",
+        "page_number": 5
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "question_id": 199,
+    "relevant_chunks": [
+      {
+        "document_name": "tmjl_2024_rus",
+        "page_number": 49
+      }
+    ],
+    "answer": 23
+  },
+  {
+    "question_id": 200,
+    "relevant_chunks": [
+      {
+        "document_name": "bsulp_2024_rus",
+        "page_number": 36
+      }
+    ],
+    "answer": 5.0
+  }
+]
