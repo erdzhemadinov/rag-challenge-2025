@@ -1,18 +1,6 @@
 
 """
-Интегрированный RAG-пайплайн.
-
-Экспортируемые сущности (для удобства импорта в других скриптах):
-    ParseConfig, IndexerConfig, ChunkingConfig, HybridConfig,
-    RAGIndexer, RAGRetriever, RetrieverConfig, RerankConfig,
-    QuestionPrepConfig,
-    answer_questions_from_xlsx, save_answers_json,
-    build_corpus_and_indices
-
-Зависимости:
-    pip install openai>=1.40.0 faiss-cpu numpy pandas tiktoken openpyxl scikit-learn tqdm PyMuPDF
-
-
+pipeline
 """
 
 from __future__ import annotations
@@ -738,7 +726,6 @@ import logging
 
 log = logging.getLogger(__name__)
 
-# In file: rag_pipeline_integrated.py
 
 from typing import Optional
 from openai import OpenAI
@@ -1329,7 +1316,7 @@ def _guess_support_by_value(hits: List[Dict[str, Any]], value: Optional[str]) ->
     return None
 
 # python
-# File: 'rag_pipeline_integrated.py'
+
 import re
 import logging
 from pathlib import Path
@@ -2060,8 +2047,7 @@ def safe_chat_create(client: OpenAI, *, model: str, messages, **kwargs):
 #########################
 #py + ocr
 
-# python
-# --- PyMuPDF + OpenAI OCR parsing path ---
+
 import time
 import base64
 from pathlib import Path
@@ -2223,7 +2209,7 @@ def _parse_pdf_pymupdf_openai(
     with out_json_path.open("w", encoding="utf-8") as f:
         json.dump(doc_json, f, ensure_ascii=False, indent=2)
 
-# --- helpers for checkpointed parsing ---
+#  helpers for checkpointed parsing
 from typing import Tuple
 from pathlib import Path
 
@@ -2264,7 +2250,7 @@ def _cached_parse_ok(pdf_path: Path, json_path: Path) -> Tuple[bool, str]:
 
 
 
-# --- wrap the PDF list loop in `parse_documents_pymupdf_openai(...)` with checkpointing ---
+#  wrap the PDF list loop in `parse_documents_pymupdf_openai(...)` with checkpointing
 def parse_documents_pymupdf_openai(
     input_dir: Path,
     output_dir: Path,
@@ -2349,8 +2335,6 @@ def parse_documents_pymupdf_openai(
 # High-level API
 # ==========================
 
-
-# python
 from pathlib import Path
 from typing import List
 import pandas as pd
@@ -2399,11 +2383,8 @@ def extract_pdf_tables_to_markdown(input_dir: Path, out_dir: Path) -> List[Path]
 
     return written
 
-# Usage example:
-# extract_pdf_tables_to_markdown(Path("689af43b20634866094170/Dataset"), Path("tables_md"))
 
-# python
-# --- in 'rag_pipeline_integrated.py' ---
+
 from pathlib import Path
 
 def merge_tables_md_into_parsed(parsed_dir: Path, tables_dir: Path) -> int:
@@ -2449,10 +2430,7 @@ def merge_tables_md_into_parsed(parsed_dir: Path, tables_dir: Path) -> int:
 
 
 ######################
-#xlsx
-# python
-# File: 'rag_pipeline_integrated.py'
-# --- add near other imports ---
+
 from pathlib import Path
 from typing import Any, Tuple
 import os
@@ -2577,8 +2555,7 @@ def _parse_xlsx_workbook(
     out_json_path.parent.mkdir(parents=True, exist_ok=True)
     with out_json_path.open("w", encoding="utf-8") as f:
         json.dump(doc_json, f, ensure_ascii=False, indent=2)
-# python
-# File: 'rag_pipeline_integrated_gpt_4.py'
+
 from typing import Any, Dict, List, Optional, Sequence
 from pathlib import Path
 import logging
@@ -2684,7 +2661,7 @@ def _judge_answers(
 
 ############################################
 # candidate a
-# python
+
 from typing import Any, Dict, List, Optional, Tuple
 import re
 import logging
@@ -2751,7 +2728,7 @@ def _llm_answer_with_support_candidate_a(
     hits: List[Dict[str, Any]],
     max_ctx_chunks: int = 8,
     max_snippet_chars: int = 1800,
-    image_b64: Optional[str] = None,        # <-- added
+    image_b64: Optional[str] = None,
 ) -> Tuple[Optional[str], Optional[int], Optional[str]]:
     ctx_parts: List[str] = []
     for i, h in enumerate(hits[: max_ctx_chunks], start=1):
@@ -2801,7 +2778,7 @@ def _llm_answer_with_support_candidate_a(
         f"question: {question}\n"
         f"answer_type: {at}\n\nPASSAGES:\n{context_block}\n\nOutput JSON only:"
     )
-    #print("attero", image_b64)
+
     # Build multi-modal or text-only content
     if image_b64:
         user_content = [
@@ -2912,7 +2889,7 @@ def ensemble_answer(
     }
 
 
-# python
+
 from typing import Any, Dict, List, Optional, Sequence
 from pathlib import Path
 import json
@@ -3044,8 +3021,7 @@ def answer_questions_from_xlsx_configurable_models(
     return results###################
 
 
-# python
-# --- XLSX parsing support (openpyxl) ---
+#  XLSX parsing support (openpyxl)
 
 from pathlib import Path
 from typing import Any, List, Dict, Optional

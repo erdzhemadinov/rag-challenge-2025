@@ -14,7 +14,7 @@ __all__ = [
     "fix_numbers_in_answers",
 ]
 
-# -------- Normalization (V2 -> V1) --------
+#  Normalization (V2 -> V1)
 
 def _load_json(p: Path) -> Dict[str, Any]:
     with p.open("r", encoding="utf-8") as f:
@@ -73,7 +73,7 @@ def normalize_parsed_dir_to_v1(input_dir: Path, output_dir: Path) -> int:
             print(f"[normalize] error {src}: {e}")
     return count
 
-# -------- Number coercion --------
+#  Number coercion
 
 _NUM_SIMPLE_RE = re.compile(r'^[+\-]?\d+(?:[.,]\d+)?$')
 
