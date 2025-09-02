@@ -25,7 +25,7 @@ PARSED_DIR = Path("output/parsed_v2_nodocling_ocr_no_tables") # parsed directory
 PARSED_DIR_NORM = Path(str(PARSED_DIR) + "_v1norm") # normalized-to-V1 for the indexer
 INDEX_DIR = Path("output/indices_csAUTO_130_300_no_docling_ocr") # point to an existing index if SKIP_INDEXING=True
 QUESTIONS = Path("689af43b20634866094170/questions_public.xlsx") # questions file
-ANSWERS_JSON = Path("output/indices_csAUTO_answers_.json") # output answers file
+ANSWERS_JSON = Path("output/indices_csAUTO_answers.json") # output answers file
 
 MODEL_TEXT = "gpt-5"
 MODEL_VISION = "gpt-4o"  # legacy, model removed, for compatibility
