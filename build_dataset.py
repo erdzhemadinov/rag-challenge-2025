@@ -21,18 +21,18 @@ OPENAI_API_KEY = os.environ["OPENAI_API_KEY"]
 if not os.environ["OPENAI_API_KEY"]:
     raise SystemExit("Set OPENAI_API_KEY")
 
-# --- toggles ---
-SKIP_PARSING = False
-SKIP_INDEXING = False
-PARSE_XLSX = True
-EXPORT_TABLES_MD = False
-MERGE_TABLES_INTO_PARSED = False
+#  toggles
+SKIP_PARSING = False  # if True, assumes parsing already done in PARSED_DIR
+SKIP_INDEXING = False # if True, assumes index already built in INDEX_DIR
+PARSE_XLSX = True  # if True, parse XLSX files in addition to PDFs
+EXPORT_TABLES_MD = False # if True, extract tables from PDFs into markdown files
+MERGE_TABLES_INTO_PARSED = False # if True, merge extracted tables markdown into parsed JSONs
 
 MIN_CHUNK_TOKENS = 130
 MAX_CHUNK_TOKENS = 300
 OVERLAP = 0.2
 
-# --- paths
+# paths
 INPUT_DIR = Path("689af43b20634866094170/Dataset")
 PARSED_DIR = Path("output/parsed_v2_nodocling_ocr_no_tables")  # may contain mixed V1/V2 parsed JSON
 PARSED_DIR_NORM = Path(str(PARSED_DIR) + "_v1norm")  # normalized-to-V1 for the indexer
@@ -40,14 +40,14 @@ INDEX_DIR = Path(f"output/indices_csAUTO_{MIN_CHUNK_TOKENS}_{MAX_CHUNK_TOKENS}_n
 QUESTIONS = Path("689af43b20634866094170/questions_public.xlsx")
 TABLES_DIR = Path("output/tables_md")
 
-# --- base configs ---
+#  base configs
 parse_cfg = ParseConfig(
     input_dir=INPUT_DIR,
     output_dir=PARSED_DIR,
     docling_backend=False,  # if False using PyMuPDF+OpenAI OCR path
 )
 
-# --- pipeline ---
+# pipeline
 def main() -> None:
 
     if not parse_cfg.docling_backend:

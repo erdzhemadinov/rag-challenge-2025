@@ -30,12 +30,12 @@ from tqdm import tqdm
 load_dotenv()
 
 OPENAI_API_KEY = os.environ["OPENAI_API_KEY"]
-# ---------- Логи ----------
+# logs
 log = logging.getLogger("RAGPipeline")
 if not log.handlers:
     logging.basicConfig(level=logging.INFO, format="%(asctime)s | %(levelname)s | %(message)s")
 
-# ---------- Внешние либы ----------
+# libs
 try:
     import faiss  # type: ignore
 except Exception as e:
@@ -681,7 +681,7 @@ from typing import Any, Dict, List
 import logging
 
 log = logging.getLogger(__name__)
-# pythonpython
+
 def llm_answer_from_hits(
     question: str,
     hits: List[Dict[str, Any]],

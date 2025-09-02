@@ -46,7 +46,7 @@ AUG_TEMPERATURE = 0.0 # temperature for question augmentation
 
 N_WORKERS = 25  # parallel answering workers
 
-# ===== key / path checks =====
+# key / path checks
 def _ensure_openai_key() -> None:
     if "OPENAI_API_KEY" not in os.environ or not os.environ["OPENAI_API_KEY"]:
         raise SystemExit("Set OPENAI_API_KEY in environment.")

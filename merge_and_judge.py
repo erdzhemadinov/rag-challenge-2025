@@ -8,7 +8,7 @@ from collections import Counter
 
 logging.basicConfig(level=logging.INFO)
 
-# ================== Config / Constants ==================
+# Config / Constants
 EMPTY_STRINGS = {
     "", "n/a", "na", "none", "null", "нет данных", "не указано",
     "not specified", "no data", "-", "—"
@@ -31,7 +31,7 @@ APPEND_PROMPT_MERGE_INSTRUCTIONS = """
 """.strip()
 
 
-# ================== Utility functions ==================
+# Utility functions
 def is_number(v: Any) -> bool:
     return isinstance(v, (int, float)) and not isinstance(v, bool)
 
@@ -113,7 +113,7 @@ def load_clarifications_collect_all(paths: List[Path]) -> Dict[int, List[Any]]:
     return acc
 
 
-# ================== Enumeration heuristics ==================
+# Enumeration heuristics
 def split_enumeration(s: str) -> List[str]:
     temp = s.replace('\n', ',')
     parts = _SPLIT_DELIMS_RE.split(temp)
@@ -191,7 +191,7 @@ def collapse_substrings(candidates: List[str]) -> Optional[Tuple[str, Dict[str, 
     return None
 
 
-# ================== Type coercion ==================
+# Type coercion
 def coerce_to_original_type(answer: Any, original_type: Optional[type]) -> Any:
     if original_type is None:
         return answer
@@ -235,7 +235,7 @@ def coerce_to_original_type(answer: Any, original_type: Optional[type]) -> Any:
     return answer
 
 
-# ================== Selection logic ==================
+# Selection logic
 def select_best_answer(
     candidates: List[Any],
     combine_lists: bool = True,
@@ -310,7 +310,7 @@ def select_best_answer(
     return chosen, info
 
 
-# ================== Merge driver ==================
+# Merge driver
 def merge_answers_preserve_format_json_only(
     original_path: Union[str, Path],
     clarifications_paths: List[Union[str, Path]],
@@ -400,7 +400,7 @@ def merge_answers_preserve_format_json_only(
     return summary
 
 
-# ================== Public runner (no argparse) ==================
+# Public runner (no argparse)
 def run_merge(
     original: Union[str, Path],
     clarifications: List[Union[str, Path]],
@@ -421,7 +421,7 @@ def run_merge(
     )
 
 
-# ================== Example invocation template ==================
+
 if __name__ == "__main__":
 
     summary = run_merge(

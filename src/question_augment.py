@@ -1,13 +1,3 @@
-# python
-"""
-Minimal question augmentation module.
-
-Usage:
-    from question_augment import (
-        GPTQuestionAugmentor, augment_questions_xlsx, probe_augmentor
-    )
-"""
-
 from __future__ import annotations
 from dataclasses import dataclass
 from pathlib import Path
