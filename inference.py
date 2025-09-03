@@ -34,10 +34,10 @@ AUG_MODEL = "gpt-5" # model for question augmentation
 RERANK_MODEL = "gpt-5-mini"  # model for reranking
 
 TOP_K = 20
-MAX_CTX_CHUNKS = 15             # how many chunks total to consider from top-K documents
+MAX_CTX_CHUNKS = 10             # how many chunks total to consider from top-K documents
 MAX_SNIPPET_CHARS = 10000       # max context size for LLM input
 DEBUG = True                    # print debug info to console
-DEBUG_PRINT_TOP_K = 15         # how many top-K results to print in debug mode
+DEBUG_PRINT_TOP_K = 10        # how many top-K results to print in debug mode
 DEBUG_SNIPPET_CHARS = 220      # how many chars of context to print in debug mode
 
 ENABLE_QUESTION_AUG = True # whether to run question augmentation
