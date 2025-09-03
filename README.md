@@ -10,6 +10,11 @@ RAG-пайплайн для PDF/XLSX, который:
 ---
 
 
+Для запуска требуется создать файл `.env` с ключом OpenAI:
+```
+OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+```
+
 ## Решение (по этапам)
 
 ### 1) Подготовка и парсинг корпуса (скрипт build_context.py)
@@ -62,7 +67,7 @@ RAG-пайплайн для PDF/XLSX, который:
 ### 8) Хелперы и защита формата (helpers.py)
 - Приведение строк к числам, «чинка» поля `answer` в итоговом JSON.
 
-### 9) Скрипты-обвязки (entry-points)
+### 9) Скрипты (entry-points)
 - `build_dataset.py` — прогон: **парсинг (PDF/XLSX) → нормализация → индексация**. Флаги `SKIP_PARSING` / `SKIP_INDEXING`. Ключ OpenAI берётся из окружения.
 - `inference.py` — сборка `retriever + rerank`, (опционально) **аугментация вопросов**, параллельные ответы, сохранение JSON и **numeric-fix**.
 - `question_augment.py` — локальные правила +/или GPT-аугментор.
